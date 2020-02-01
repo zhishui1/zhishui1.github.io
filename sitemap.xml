@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lovlife.com/post/Python/Python-basis/</loc>
+    
+    <lastmod>2020-02-01T03:21:15.593Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lovlife.com/post/tech/regex-review/</loc>
     
-    <lastmod>2020-01-09T13:37:13.372Z</lastmod>
+    <lastmod>2020-01-30T06:44:25.312Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://lovlife.com/post/Hexo/hexo-commands/</loc>
     
     <lastmod>2020-01-09T05:44:21.658Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lovlife.com/post/Python/Python-basis/</loc>
-    
-    <lastmod>2020-01-02T04:00:54.955Z</lastmod>
     
   </url>
   
