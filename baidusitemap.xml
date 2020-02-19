@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://lovlife.com/post/Python/effective-python/</loc>
+    <lastmod>2020-02-19</lastmod>
+  </url>  <url>
+    <loc>http://lovlife.com/post/Life/daliy/</loc>
+    <lastmod>2020-02-17</lastmod>
+  </url>  <url>
+    <loc>http://lovlife.com/post/Python/Python-basis/</loc>
+    <lastmod>2020-02-17</lastmod>
+  </url>  <url>
     <loc>http://lovlife.com/post/Python/excel-csv-json-with-python/</loc>
     <lastmod>2020-02-15</lastmod>
   </url>  <url>
     <loc>http://lovlife.com/post/Python/auto-gui-with-python/</loc>
     <lastmod>2020-02-11</lastmod>
-  </url>  <url>
-    <loc>http://lovlife.com/post/Python/Python-basis/</loc>
-    <lastmod>2020-02-03</lastmod>
   </url>  <url>
     <loc>http://lovlife.com/post/tech/regex-review/</loc>
     <lastmod>2020-01-30</lastmod>
@@ -18,9 +24,6 @@
   </url>  <url>
     <loc>http://lovlife.com/post/Hexo/hexo_issues/</loc>
     <lastmod>2019-12-24</lastmod>
-  </url>  <url>
-    <loc>http://lovlife.com/post/Life/daliy/</loc>
-    <lastmod>2019-12-19</lastmod>
   </url>  <url>
     <loc>http://lovlife.com/post/Share/Gris/</loc>
     <lastmod>2019-12-19</lastmod>
