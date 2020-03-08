@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://lovlife.com/post/Python/effective-python/</loc>
+    <lastmod>2020-03-08</lastmod>
+  </url>  <url>
+    <loc>http://lovlife.com/post/Life/daliy/</loc>
+    <lastmod>2020-03-05</lastmod>
+  </url>  <url>
     <loc>http://lovlife.com/post/Django/django-development-process/</loc>
+    <lastmod>2020-03-04</lastmod>
+  </url>  <url>
+    <loc>http://lovlife.com/post/Hexo/hexo-commands/</loc>
     <lastmod>2020-03-04</lastmod>
   </url>  <url>
     <loc>http://lovlife.com/post/Python/python-basis/</loc>
     <lastmod>2020-03-04</lastmod>
-  </url>  <url>
-    <loc>http://lovlife.com/post/Life/daliy/</loc>
-    <lastmod>2020-03-03</lastmod>
-  </url>  <url>
-    <loc>http://lovlife.com/post/Python/effective-python/</loc>
-    <lastmod>2020-02-25</lastmod>
   </url>  <url>
     <loc>http://lovlife.com/post/Python/excel-csv-json-with-python/</loc>
     <lastmod>2020-02-15</lastmod>
@@ -21,9 +24,6 @@
   </url>  <url>
     <loc>http://lovlife.com/post/tech/regex-review/</loc>
     <lastmod>2020-01-30</lastmod>
-  </url>  <url>
-    <loc>http://lovlife.com/post/Hexo/hexo-commands/</loc>
-    <lastmod>2020-01-09</lastmod>
   </url>  <url>
     <loc>http://lovlife.com/post/Hexo/hexo_issues/</loc>
     <lastmod>2019-12-24</lastmod>
