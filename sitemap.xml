@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lovlife.com/post/Python/effective-python/</loc>
-    
-    <lastmod>2020-03-09T03:52:17.948Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://lovlife.com/post/Life/daliy/</loc>
     
-    <lastmod>2020-03-05T02:39:55.046Z</lastmod>
+    <lastmod>2020-03-15T06:25:33.691Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://lovlife.com/post/Django/django-development-process/</loc>
     
-    <lastmod>2020-03-04T01:49:15.751Z</lastmod>
+    <lastmod>2020-03-15T06:25:33.644Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lovlife.com/post/Python/effective-python/</loc>
+    
+    <lastmod>2020-03-09T04:02:25.409Z</lastmod>
     
   </url>
   
