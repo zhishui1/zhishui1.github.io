@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>《Python深度学习》笔记</title>
+    <url>/post/Python/deep-learning-notes/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>《Python深度学习》笔记<a id="more"></a></p><h2 id="Part1-基本概念"><a href="#Part1-基本概念" class="headerlink" title="Part1 基本概念"></a>Part1 基本概念</h2><p><em>首先理清人工智能、机器学习和深度学习的概念和关系，</em><br><em>人工智能&gt;机器学习&gt;深度学习</em><br><em>深度学习是机器学习的子集，而机器学习则是人工智能的子集</em></p><h3 id="人工智能"><a href="#人工智能" class="headerlink" title="人工智能"></a>人工智能</h3><p><strong>简洁定义</strong>：将通常由人类完成的智力任务自动化。<br><strong>发展</strong>：<em>符号主义人工智能</em>（symbolic AI）→<em>机器学习</em>（machine learning）<br><strong>符号主义人工智能</strong>：编写足够多的明确规则来处理知识，用于解决定义明确的逻辑问题，如下国际象棋，但对于图像分类、语音识别等难以给出明确规则的复杂、模糊的问题将无法解决。</p><h2 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h2><p><img src="https://user-gold-cdn.xitu.io/2020/5/15/172189c73349ed3e?w=427&h=194&f=png&s=6619" alt=""><br>　　机器学习将某个任务相关的示例输入机器学习系统，系统从中找到统计结构，最终找到规则将任务自动化，其与经典程序设计不同如上图。</p>]]></content>
+      <categories>
+        <category>Deep Learning</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>Deep Learning</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Django网站开发流程</title>
     <url>/post/Django/django-development-process/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>基于Django的学生作业提交与测评系统<a id="more"></a></p><h2 id="官方文档"><a href="#官方文档" class="headerlink" title="官方文档"></a>官方文档</h2><p><a href="https://docs.djangoproject.com/zh-hans/3.0/" target="_blank" rel="noopener">https://docs.djangoproject.com/zh-hans/3.0/</a></p><h2 id="部署开发环境"><a href="#部署开发环境" class="headerlink" title="部署开发环境"></a>部署开发环境</h2><figure class="highlight py"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
