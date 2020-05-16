@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lovlife.com/post/Python/deep-learning-notes/</loc>
+    <loc>http://lovlife.com/post/DeepLearning/deep-learning-notes/</loc>
     
-    <lastmod>2020-05-15T13:53:36.465Z</lastmod>
+    <lastmod>2020-05-16T08:14:30.545Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lovlife.com/post/Django/django-development-process/</loc>
+    
+    <lastmod>2020-05-16T08:14:14.045Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lovlife.com/post/Python/effective-python/</loc>
+    
+    <lastmod>2020-05-16T03:30:59.899Z</lastmod>
     
   </url>
   
@@ -19,20 +33,6 @@
     <loc>http://lovlife.com/post/Python/python-basis/</loc>
     
     <lastmod>2020-05-06T12:20:24.492Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lovlife.com/post/Django/django-development-process/</loc>
-    
-    <lastmod>2020-03-15T06:25:33.644Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lovlife.com/post/Python/effective-python/</loc>
-    
-    <lastmod>2020-03-09T04:02:25.409Z</lastmod>
     
   </url>
   
