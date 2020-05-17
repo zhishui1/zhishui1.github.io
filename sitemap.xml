@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lovlife.com/post/Python/Python-basis/</loc>
+    
+    <lastmod>2020-05-17T11:17:23.434Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lovlife.com/post/Hexo/hexo_issues/</loc>
     
     <lastmod>2020-05-17T10:49:30.276Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://lovlife.com/post/Life/daliy/</loc>
     
     <lastmod>2020-05-11T06:47:30.386Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lovlife.com/post/Python/python-basis/</loc>
-    
-    <lastmod>2020-05-06T12:20:24.492Z</lastmod>
     
   </url>
   
