@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lovlife.com/post/Hexo/hexo_issues/</loc>
+    <loc>http://lovlife.com/post/DeepLearning/deep-learning-notes/</loc>
     
-    <lastmod>2020-05-18T12:52:31.625Z</lastmod>
+    <lastmod>2020-05-19T03:29:56.622Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://lovlife.com/post/DeepLearning/deep-learning-notes/</loc>
+    <loc>http://lovlife.com/post/Hexo/hexo_issues/</loc>
     
-    <lastmod>2020-05-18T10:49:34.209Z</lastmod>
+    <lastmod>2020-05-19T02:22:49.598Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lovlife.com/post/Tips/common-commands/</loc>
+    
+    <lastmod>2020-05-19T02:22:33.212Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lovlife.com/post/Python/effective-python/</loc>
+    
+    <lastmod>2020-05-18T13:07:39.805Z</lastmod>
     
   </url>
   
@@ -26,13 +40,6 @@
     <loc>http://lovlife.com/post/Python/Python-basis/</loc>
     
     <lastmod>2020-05-17T11:18:23.267Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lovlife.com/post/Python/effective-python/</loc>
-    
-    <lastmod>2020-05-16T03:30:59.899Z</lastmod>
     
   </url>
   
