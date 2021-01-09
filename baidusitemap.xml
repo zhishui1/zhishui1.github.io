@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://xxyr.cc/post/Redis/redis-notes/</loc>
-    <lastmod>2021-01-04</lastmod>
+    <lastmod>2021-01-09</lastmod>
+  </url>  <url>
+    <loc>http://xxyr.cc/post/Python/python-spider/</loc>
+    <lastmod>2021-01-08</lastmod>
   </url>  <url>
     <loc>http://xxyr.cc/post/Python/fluent-python-notes/</loc>
-    <lastmod>2021-01-04</lastmod>
+    <lastmod>2021-01-06</lastmod>
   </url>  <url>
     <loc>http://xxyr.cc/post/Python/Python-basis/</loc>
     <lastmod>2021-01-03</lastmod>
   </url>  <url>
     <loc>http://xxyr.cc/post/Networks/wireshark/</loc>
-    <lastmod>2021-01-01</lastmod>
-  </url>  <url>
-    <loc>http://xxyr.cc/post/Python/python-spider/</loc>
     <lastmod>2021-01-01</lastmod>
   </url>  <url>
     <loc>http://xxyr.cc/post/Life/daliy/</loc>
