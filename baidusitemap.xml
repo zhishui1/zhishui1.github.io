@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://xxyr.cc/post/Python/python-spider/</loc>
-    <lastmod>2021-02-07</lastmod>
+    <lastmod>2021-02-13</lastmod>
   </url>  <url>
     <loc>https://xxyr.cc/post/Python/Python-basis/</loc>
-    <lastmod>2021-01-29</lastmod>
+    <lastmod>2021-02-10</lastmod>
   </url>  <url>
     <loc>https://xxyr.cc/post/Redis/redis-notes/</loc>
-    <lastmod>2021-01-28</lastmod>
+    <lastmod>2021-02-09</lastmod>
+  </url>  <url>
+    <loc>https://xxyr.cc/post/Go/gogo-basis/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>  <url>
+    <loc>https://xxyr.cc/post/Docker/docker-notes/</loc>
+    <lastmod>2021-02-08</lastmod>
   </url>  <url>
     <loc>https://xxyr.cc/post/tech/regex-review/</loc>
     <lastmod>2021-01-10</lastmod>
