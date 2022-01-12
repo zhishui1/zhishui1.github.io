@@ -2,9 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xxyr.cc/post/DeepLearning/deep-learning-notes/</loc>
+    
+    <lastmod>2022-01-12T06:44:18.389Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xxyr.cc/post/Life/daliy/</loc>
     
-    <lastmod>2021-02-24T02:24:54.949Z</lastmod>
+    <lastmod>2022-01-02T06:23:40.864Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xxyr.cc/about/index.html</loc>
+    
+    <lastmod>2022-01-02T06:23:24.426Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xxyr.cc/post/Python/Python-basis/</loc>
+    
+    <lastmod>2021-03-17T08:33:36.174Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xxyr.cc/post/Java/java-basis/</loc>
+    
+    <lastmod>2021-03-17T04:54:02.304Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xxyr.cc/post/Python/fluent-python-notes/</loc>
+    
+    <lastmod>2021-03-14T12:45:44.359Z</lastmod>
     
   </url>
   
@@ -23,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://xxyr.cc/post/Python/Python-basis/</loc>
-    
-    <lastmod>2021-02-10T04:48:09.870Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://xxyr.cc/post/Redis/redis-notes/</loc>
     
     <lastmod>2021-02-09T13:16:59.332Z</lastmod>
@@ -37,30 +65,9 @@
   </url>
   
   <url>
-    <loc>https://xxyr.cc/post/Go/gogo-basis/</loc>
-    
-    <lastmod>2021-02-08T10:24:05.509Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xxyr.cc/about/index.html</loc>
-    
-    <lastmod>2021-01-18T06:46:17.802Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://xxyr.cc/post/tech/regex-review/</loc>
     
     <lastmod>2021-01-10T07:20:39.754Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xxyr.cc/post/Python/fluent-python-notes/</loc>
-    
-    <lastmod>2021-01-06T07:32:04.021Z</lastmod>
     
   </url>
   
@@ -75,13 +82,6 @@
     <loc>https://xxyr.cc/post/Life/memories/</loc>
     
     <lastmod>2020-12-30T05:14:29.865Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xxyr.cc/post/DeepLearning/deep-learning-notes/</loc>
-    
-    <lastmod>2020-05-30T06:40:44.181Z</lastmod>
     
   </url>
   
